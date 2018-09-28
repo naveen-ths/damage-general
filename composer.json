@@ -1,0 +1,20 @@
+{
+    "name": "wearedamage/damage-general",
+    "description": "A class containing a list of popular functions which should be shared with all projects",
+    "license": "MIT",
+    "keywords": ["Damage"],
+    "authors": [
+        {
+            "name": "Dominic Talbot",
+            "email": "dominic@wearedamage.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Damage\\": "src/"
+        }
+    }
+}
+
